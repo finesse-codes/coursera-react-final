@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://finesse-codes.github.io/coursera-react-final/",
+
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
