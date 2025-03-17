@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://finesse-codes.github.io/coursera-react-final/",
-
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
@@ -14,8 +13,10 @@
     "preview": "vite build; vite preview --host"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-redux": "^9.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
